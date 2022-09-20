@@ -50,8 +50,8 @@ body{
 }
 
 .gallery img {
-   width: 90%;
-   height: 90%;
+   width: 100%;
+   height: 100%;
    border: 9px solid maroon;
    align-items: center;
    justify-content: first baseline;
