@@ -59,7 +59,6 @@ body{
 }
 
 .gallery img:last-child {
-   columns: 3;
-   column-span: all;
-   column-width: 750px;
+   grid-column-start: 1;
+   grid-column-end: 4;
 }
