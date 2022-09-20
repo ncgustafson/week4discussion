@@ -55,8 +55,7 @@ body{
  }
 
  .gallery img:last-child{
-   display: block;
-   column-span: all;
+   grid-column: 1/-1;
  }
 
 
